@@ -47,7 +47,7 @@ Financial institutions and security teams struggle to quickly identify and under
 • Assists in developing more robust financial security measures
 
 ## Screenshots
-![Global Card Fraud Risk Analysis Dashboard](Screenshot%202025-05-12%20181618.png)
+![Global Card Fraud Risk Analysis Dashboard](GLOBAL_CARD_FRAUD_RISK_DASHBOARD.png)
 
 ## DAX Measures
 ```dax
