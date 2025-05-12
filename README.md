@@ -6,16 +6,17 @@ A comprehensive Power BI data visualization tool designed to uncover and analyze
 The Global Card Fraud Risk Analysis Dashboard is an interactive Power BI report created to transform raw financial security data into actionable insights. By leveraging a Kaggle dataset, the dashboard provides a multi-dimensional view of card fraud risks, enabling deeper understanding of fraudulent transaction patterns.
 Tech Stack
 
-📊 Power BI Desktop – Primary data visualization platform
-📂 Power Query – Data transformation and cleaning
-🧠 DAX (Data Analysis Expressions) – Custom calculations and measures
-📁 File Format – .pbix for development, .png for dashboard previews
+📊 **Power BI Desktop** – Primary data visualization platform
+📂 **Power Query** – Data transformation and cleaning
+🧠 **DAX (Data Analysis Expressions)** – Custom calculations and measures
+📁 **File Format** – .pbix for development, .png for dashboard previews
 
 **Data Source**
 Source: Kaggle Card Fraud Risk Analysis Dataset
 Comprehensive dataset covering card fraud transactions with detailed information on fraud flags, transaction amounts, card types, and risk levels.
-Features & Highlights
-Business Problem
+**Features & Highlights**
+
+**Business Problem**
 Financial institutions and security teams struggle to quickly identify and understand complex fraud patterns across different dimensions such as merchant types, card types, and geographic regions.
 
 **Key Insights**
