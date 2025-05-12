@@ -47,7 +47,7 @@ Financial institutions and security teams struggle to quickly identify and under
 • Assists in developing more robust financial security measures
 
 ## Screenshots
-![Dashboard Screenshot]([Screenshot 2025-05-12 181618.png](https://github.com/domybestttt/GLOBAL-CARD-FRAUD-RISK-ANALYSIS-DASHBOARD/blob/984fa56220846f9d0c6a57f08629174d69467605/Screenshot%202025-05-12%20181618.png))
+![Dashboard Screenshot](Screenshot 2025-05-12 181618.png)
 
 ## DAX Measures
 ```dax
